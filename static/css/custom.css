@@ -1,0 +1,29 @@
+article, .content, .post-content {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tc-l{
+    text-align: left !important;
+  }
+
+.mw8 {
+  max-width: 180em;
+}
+
+.measure-wide {
+  max-width: 64em;
+}
+
+ .w-two-thirds-l {
+    width: 90%;
+}
+
+.lh-title {
+  display: none !important;
+}
+
+.bg-black-60 {
+  background-color: rgba(0,0,0,0) !important;
+}

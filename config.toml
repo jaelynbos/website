@@ -1,0 +1,35 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Jaelyn Bos'
+theme = "Anake"
+
+[params]
+  ShowReadingTime = true
+  custom_css = ["css/custom.css"]
+  mainSections = []
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
+[menu]
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "teaching"
+    name = "Teaching and Outreach"
+    url = "/teaching/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+

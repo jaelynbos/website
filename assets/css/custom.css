@@ -1,0 +1,9 @@
+article, .content, .post-content {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg-black-60  {
+  background-color: rgba(0,0,0,0) !important;
+}
