@@ -2,7 +2,7 @@
 date = '2025-06-24T21:47:10-07:00'
 draft = false
 title = 'Teaching and Outreach'
-featured_image = "/images/teaching.jpg"
+featured_image = "https://jaelynbos.com/images/teaching.jpg"
 +++
 
 ## Teaching

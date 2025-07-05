@@ -2,7 +2,7 @@
 date = '2025-07-04T15:02:16-04:00'
 draft = false
 title = ''
-featured_image = "/images/about.jpg"
+featured_image = "https://jaelynbos.com/images/about.jpg"
 +++
 
 ## About me
@@ -15,4 +15,4 @@ My current research focuses on seascape genetics and local adaptation in branchi
 
 I'm interested in future opportunities involving a variety of marine taxa, especially relating to questions of conservation genetics, evolution, and adaptation to global change. I value science that supports human  wellbeing in vulnerable areas.
 
-Download my CV [here.](/CV_JaelynBos.pdf)
+Download my CV [here.](https://jaelynbos.com/CV_JaelynBos.pdf)

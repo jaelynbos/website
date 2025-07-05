@@ -2,7 +2,7 @@
 date = '2025-06-24T21:46:51-07:00'
 draft = false
 title = 'Publications and presentations'
-featured_image=  "/images/publications.jpg"
+featured_image=  "https://jaelynbos.com/images/publications.jpg"
 +++
 
 ## Publications
