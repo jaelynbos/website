@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Jaelyn Bos'
 theme = "Anake"
 
+[module]
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"
+
 [params]
   ShowReadingTime = true
   custom_css = ["css/custom.css"]
