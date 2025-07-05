@@ -1,6 +1,8 @@
 [build]
   publish = "public"
   command = "hugo"
+  baseURL = "https://jaelynbos.com/"
 
 [context.production.environment]
   HUGO_VERSION = "0.147.9"
+  HUGO_ENV = "production"
