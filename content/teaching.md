@@ -6,6 +6,7 @@ featured_image = "https://jaelynbos.com/images/teaching.jpg"
 +++
 
 ## Teaching
+Teaching assistant, **Genetics for Ecologists.** UCSC; Winter 2026.\
 Teaching assistant, **Field Biology in Practice.** UCSC; Fall 2024 and Spring 2025.\
 Teaching assistant, **Physiology and Development.** UCSC; Winter 2025. \
 **Eleventh grade biology** teacher. Escola Secundária de Nametil, Jan 2018 - Nov 2019. \
@@ -15,6 +16,10 @@ Undergraduate teaching assistant, **Freshman Honors Forum.** UMBC; Fall 2015 and
 
 ## Undergraduate supervision
 Thesis supervisor, Didi Minhote. *Avaliação do Crescimento de Corais Cultivados em Viveiros de Árvore (Coral Tree) na Baía Pemba.* Universidade Lúrio Faculdade de Ciências Naturais, 2025. 
+
+Thesis supervisor, Zulekha Jafar. *Diversidade de zooxantelas na Baía de Pemba.* Universidade Lúrio Faculdade de Ciências Naturais, 2026. 
+
+Thesis supervisor, Tomás Cossa. *Efeitos da temperatura no branqueamento de corais Acropora na Baía de Pemba* Universidade Lúrio Faculdade de Ciências Naturais, 2026. 
 
 ## Other K - 12 outreach
 Elementary Judge, Santa Cruz County Science Fair. Watsonville, CA; 2024 and 2025. \
