@@ -1,5 +1,5 @@
 +++
-date = '2025-06-24T21:46:51-07:00'
+date = '2026-04-24T21:46:51-10:00'
 draft = false
 title = 'Publications and presentations'
 featured_image=  "https://jaelynbos.com/images/publications.jpg"
@@ -7,11 +7,11 @@ featured_image=  "https://jaelynbos.com/images/publications.jpg"
 
 ## Publications
 
-**Bos, J. T.** & Pinsky, M. L. Fine resolution satellite sea surface temperatures capture the conditions experienced by corals at monthly but not daily timescales. *Coral Reefs* 44, 423–434 (2025).
+**Bos, J. T.** & Pinsky, M. L. Fine resolution satellite sea surface temperatures capture the conditions experienced by corals at monthly but not daily timescales. *Coral Reefs* 44, 423–434 (2025). DOI: https://doi.org/10.1007/s00338-024-02611-8
 
-Baker, M., Yesilonis, I., Templeton, L., Shobe, B., **Bos, J.**, Sonti, N.F. & Lautar, K.  Distributed urban forest patch sampling detects edge effects and woodland condition for monitoring and management. *Ecosphere* 16, e70236 (2025).
+Baker, M., Yesilonis, I., Templeton, L., Shobe, B., **Bos, J.**, Sonti, N.F. & Lautar, K.  Distributed urban forest patch sampling detects edge effects and woodland condition for monitoring and management. *Ecosphere* 16, e70236 (2025). DOI: https://doi.org/10.1002/ecs2.70236
 
-Pinsky, M. L., Clark, R. D. & **Bos, J. T.** Coral Reef Population Genomics in an Age of Global Change. *Annual Review of Genetics* 57, 87–115 (2023).
+Pinsky, M. L., Clark, R. D. & **Bos, J. T.** Coral Reef Population Genomics in an Age of Global Change. *Annual Review of Genetics* 57, 87–115 (2023). DOI: https://doi.org/10.1146/annurev-genet-022123-102748
 
 ### Submitted manuscripts
 
