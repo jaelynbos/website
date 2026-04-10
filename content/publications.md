@@ -13,6 +13,10 @@ Baker, M., Yesilonis, I., Templeton, L., Shobe, B., **Bos, J.**, Sonti, N.F. & L
 
 Pinsky, M. L., Clark, R. D. & **Bos, J. T.** Coral Reef Population Genomics in an Age of Global Change. *Annual Review of Genetics* 57, 87–115 (2023).
 
+### Submitted manuscripts
+
+**Bos, J.T.**, McManus, L.C., Ravago-Gotanco, R.J. & Pinsky, M.L. Contrasting patterns of seascape genetics in Acropora cf. tenuis and their symbiotic algae. Available as preprint on BioRxiv (2026). DOI: https://doi.org/10.64898/2026.04.07.716991
+
 ## Conference presentations
 *Corals in space: lanscape genetics for conservation*. Best talk runner-up, Student Conference on Conservation Science, New York, NY. October 2026.\
 *Contrasting patterns of lanscape genetics between Acropora spp. and their algal symbionts*. Poster presentation, Ecological Society of American Annual Meeting, Baltimore, MD. August 2026.\
