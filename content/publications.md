@@ -1,5 +1,5 @@
 +++
-date = '2026-04-24T21:46:51-10:00'
+date = '2026-04-10T12:46:51-10:00'
 draft = false
 title = 'Publications and presentations'
 featured_image=  "https://jaelynbos.com/images/publications.jpg"
