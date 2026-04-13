@@ -18,8 +18,8 @@ Pinsky, M. L., Clark, R. D. & **Bos, J. T.** Coral Reef Population Genomics in a
 **Bos, J.T.**, McManus, L.C., Ravago-Gotanco, R.J. & Pinsky, M.L. Contrasting patterns of seascape genetics in *Acropora cf. tenuis* and their symbiotic algae. Available as preprint on BioRxiv (2026). DOI: https://doi.org/10.64898/2026.04.07.716991
 
 ## Conference presentations
-*Corals in space: lanscape genetics for conservation*. Best talk runner-up, Student Conference on Conservation Science, New York, NY. October 2026.\
-*Contrasting patterns of lanscape genetics between Acropora spp. and their algal symbionts*. Poster presentation, Ecological Society of American Annual Meeting, Baltimore, MD. August 2026.\
+*Corals in space: landscape genetics for conservation*. Best talk runner-up, Student Conference on Conservation Science, New York, NY. October 2026.\
+*Contrasting patterns of landscape genetics between Acropora spp. and their algal symbionts*. Poster presentation, Ecological Society of American Annual Meeting, Baltimore, MD. August 2026.\
 *Spatial patterns in* Acropora tenuis *genetic variation*. American Society of Naturalists Meeting, Pacific Grove, CA. January 2025.\
 *Neutral genetic variation in* Acropora tenuis *across a reefscape*. Poster Presentation, Bay Area Population Genetics Meeting, Berkeley, CA. October 2024.\
 *Spatial genetic structure of* Acropora tenuis *in the central Philippines*. Poster presentation, Ecological Society of American Annual Meeting, Long Beach, CA. August 2024.\
