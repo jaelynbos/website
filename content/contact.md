@@ -5,7 +5,7 @@ title = 'Contact'
 featured_image = "https://jaelynbos.com/images/contact.jpg"
 +++
 
-I'm currently interested in postdoc openings, as well as opportunities for science education and outreach! 
+Please feel free to reach out with potential collaborations, as well as opportunities for science education and outreach! 
 
 Email: jbos@ucsc.edu | jaelynbos@gmail.com
 
